@@ -1,0 +1,33 @@
+#podcast-list {
+    float: left;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    width: 100%;	
+
+}
+
+#podcast-list .item{
+	float: left;
+	position: relative;
+	display: block;
+    width: 100%;	
+}	
+
+#podcast-list .icon
+{
+	float: left;
+	max-width: 128px;
+}
+
+#podcast-list .info
+{
+	padding: 0;
+	position: relative;
+	overflow: hidden;
+}
+
+#podcast-list .title{
+	font-size: large;
+	font-weight: bold;
+}

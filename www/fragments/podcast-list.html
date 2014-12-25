@@ -1,0 +1,13 @@
+<ul id="podcast-list">
+        <li class="item" ng-repeat="podcast in podcastList.podcasts">
+            <div>
+                <div class="icon">
+                	<img ng-src={{podcast.icon}}></img>
+                </div>
+                <div class="info">
+                    <p class="title">{{podcast.title}}</p>
+                    <p class="update">{{podcast.lastUpdate | date }}</p>
+                </div>                    
+            </div>                  
+        </li>               
+ </ul>
