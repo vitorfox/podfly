@@ -9,20 +9,20 @@ app.directive('podcastList', function(){
 		restrict:'E',
 		templateUrl: "fragments/podcast-list.html",
 		controllerAs: "podcastList",
-		controller: function() {
+		controller: ['$http',function($http) {
 
-			this.podcasts = [];
+			var $this = this;
 
-			for (i=0; i < 5; i++) {
+			$this.podcasts = [];
 
-				var obj = {
-					title: "Cocozinho" + i,
-					lastUpdate: Date.now(),
-					icon: 'img/square128.png'
-				};
+			var account_token = 'fdae317a5ffdae317a5ffdae317a5ffdae317a5f'
 
-				this.podcasts.push(obj);
-			};
-		}
+			$http.get('https://podfly-api.appspot.com/podcast/me/' + account_token).success(function(data){
+				data.forEach(function(e){
+					$this.podcasts.push(e);
+				});
+			});
+
+		}]
 	};
 });
