@@ -5,6 +5,7 @@ local.properties
 /gradlew.bat
 /gradle
 # Ant builds
+CordovaLib/ant-build/
 ant-built
 ant-gen
 # Eclipse builds
