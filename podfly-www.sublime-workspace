@@ -1,0 +1,1286 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"Pod",
+				"PodcastModel"
+			],
+			[
+				"co",
+				"countdir"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"ponto",
+				"Ponto"
+			],
+			[
+				"wri",
+				"writeln"
+			],
+			[
+				"writ",
+				"write"
+			],
+			[
+				"a",
+				"arquivo"
+			],
+			[
+				"con",
+				"consoante"
+			],
+			[
+				"linhaco",
+				"linhacons"
+			],
+			[
+				"cons",
+				"cons"
+			],
+			[
+				"linha",
+				"linhavogal"
+			],
+			[
+				"qnt",
+				"qntMaisVogal"
+			],
+			[
+				"write",
+				"writeln"
+			],
+			[
+				"req",
+				"req1	require_once …"
+			],
+			[
+				"sessi",
+				"sessionManager"
+			],
+			[
+				"total",
+				"total_users"
+			],
+			[
+				"ad",
+				"ad_id"
+			],
+			[
+				"re",
+				"region"
+			],
+			[
+				"ne",
+				"neighbourhood_id"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"conf",
+				"conf_key"
+			],
+			[
+				"prin",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/js/app.js",
+			"settings":
+			{
+				"buffer_size": 695,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/css/podfly.css",
+			"settings":
+			{
+				"buffer_size": 479,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/fragments/podcast-list.html",
+			"settings":
+			{
+				"buffer_size": 511,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/index.html",
+			"settings":
+			{
+				"buffer_size": 2058,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"git his",
+				"Git: Diff Current File (Ignore Whitespace)"
+			],
+			[
+				"git lo",
+				"Git: Log Current File"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git lg",
+				"Git: Log Current File"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"git show",
+				"Git: Show Current File"
+			],
+			[
+				"git sho",
+				"Git: Show Current File"
+			],
+			[
+				"Git d",
+				"Git: Diff All Files"
+			],
+			[
+				"git",
+				"Git: Show Tags"
+			],
+			[
+				"git d",
+				"Git: Diff All Files"
+			],
+			[
+				"ga",
+				"Git: Add..."
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"Packe",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"sublime.active_window().active_view().run_command(\"revert\")",
+			"self.path",
+			"self.filename",
+			"self.name",
+			"getFilename()",
+			":filename",
+			":file",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/vitorteixeira/Dev/phonegap_projects/podfly/www/fragments/initial.html",
+		"/Users/vitorteixeira/Dev/php_projects/podfly-api/crawlers/crawler_opml.php",
+		"/Users/vitorteixeira/Dev/php_projects/podfly-api/crawlers/test.php",
+		"/Users/vitorteixeira/Dev/php_projects/podfly-api/test/testPodcastModel.php",
+		"/Users/vitorteixeira/Dev/php_projects/podfly-api/helpers/DBHelper.php",
+		"/Users/vitorteixeira/Dev/php_projects/podfly-api/helpers/MySqlHelper.php",
+		"/Users/vitorteixeira/Dev/php_projects/podfly-api/utils/CammelCase.php",
+		"/Users/vitorteixeira/Dev/php_projects/podfly-api/php.ini",
+		"/Users/vitorteixeira/Dev/php_projects/podfly_api/codeguy-Slim-04958a1/index.php",
+		"/Users/vitorteixeira/Dev/php_projects/podfly_api/main.php",
+		"/Users/vitorteixeira/Dev/php_projects/podfly_api/codeguy-Slim-04958a1/tests/RouteTest.php",
+		"/Users/vitorteixeira/Dev/phonegap_projects/podfly/www/css/index.css",
+		"/Users/vitorteixeira/Dev/phonegap_projects/podfly/www/js/app.js",
+		"/Users/vitorteixeira/Dev/phonegap_projects/podfly/www/index.html",
+		"/Users/vitorteixeira/Dev/phonegap_projects/podfly/www/init.html",
+		"/Users/vitorteixeira/Dev/phonegap_projects/podfly/www/js/index.js",
+		"/Users/vitorteixeira/Documents/renovacao",
+		"/Users/vitorteixeira/Documents/ostentamobile@hotmail.com",
+		"/Users/vitorteixeira/Dev/phonegap_projects/podfly/www/podcast_list.html",
+		"/Users/vitorteixeira/Dev/phonegap_projects/podfly/www/icon.png",
+		"/Users/vitorteixeira/Dev/phonegap_projects/podfly/www/spec.html",
+		"/Users/vitorteixeira/Dev/phonegap_projects/podfly/platforms/android/src/com/phonegap/helloworld/CordovaApp.java",
+		"/Users/vitorteixeira/Documents/Virtual Machines.localized/Windows 8.1 x64.vmwarevm/Windows 8.1 x64.vmx",
+		"/Users/vitorteixeira/Dropbox/Cederj/FP/tech_error_filters-20140929/xpto.txt",
+		"/Users/vitorteixeira/Dropbox/Cederj/FP/tech_error_filters-20140929/MAP2-Q2.pas",
+		"/Users/vitorteixeira/Dropbox/Cederj/FP/tech_error_filters-20140929/MAP2-Q1.pas",
+		"/Users/vitorteixeira/Dropbox/Cederj/FP/tech_error_filters-20140929/AP2-Q1.pas",
+		"/Users/vitorteixeira/Dropbox/Cederj/FP/tech_error_filters-20140929/teste.pas",
+		"/Volumes/dev01c6/bomnegocio/mobile/php/newad_mobile/apps/newad_mobile.php",
+		"/Volumes/dev01c6/bomnegocio/php/common/include/SessionManager.php",
+		"/Users/vitorteixeira/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/Volumes/dev01c6/bomnegocio/services/auth_service/specification/sessions.yaml",
+		"/Volumes/dev01c6/bomnegocio/util/selenium-core/blocket-tests/store_edit_non_store_ad.html",
+		"/Volumes/dev01c6/bomnegocio/regress_final/logs/ssl_error_log",
+		"/Volumes/dev01c6/bomnegocio/doc/servers.dia",
+		"/Volumes/dev01c6/bomnegocio/conf/regress/httpd/php.ini.inc",
+		"/Volumes/dev01c6/bomnegocio/doc/newsite",
+		"/Volumes/dev01c6/bomnegocio/util/selenium-core/blocket-tests/new_ad_esportes.html",
+		"/Users/vitorteixeira/Dev/sublime projects/bn.sublime-project",
+		"/Volumes/dev01c6/bomnegocio/www/js/mobile_li.js.in",
+		"/Volumes/dev01c6/bomnegocio/www/js/Builddesc",
+		"/Volumes/dev01c6/bomnegocio/www/js/zepto/bind_first.js.in",
+		"/Volumes/dev01c6/bomnegocio/templates/mobile/account/include/acc_localization_fields.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/www/js/zepto/outer_height.js.in",
+		"/Volumes/dev01c6/bomnegocio/www/js/mobile_account_p2p_my_info.js.tmpl",
+		"/Volumes/dev01c6/bomnegocio/www/js/SubjectBuilder.js.in",
+		"/Volumes/dev01c6/bomnegocio/www/js/json2.js.in",
+		"/Volumes/dev01c6/bomnegocio/www/js/map_svg.js.in",
+		"/Volumes/dev01c6/bomnegocio/www/js/jquery.creditCardValidator.js.in",
+		"/Volumes/dev01c6/bomnegocio/scripts/postinst/wwwcommon-postinstall.sh",
+		"/Volumes/dev01c6/bomnegocio/util/selenium-core/blocket-tests/adwatch_watch_where.html",
+		"/Volumes/dev01c6/bomnegocio/util/watcher.py",
+		"/Volumes/dev01c6/bomnegocio/Builddesc",
+		"/Volumes/dev01c6/bomnegocio/regress/final/bconf_update.pl",
+		"/Volumes/dev01c6/bomnegocio/php/common/include/bImageUpload.php",
+		"/Volumes/dev01c6/bomnegocio/php/common/include/bLoggedUser.php",
+		"/Volumes/dev01c6/bomnegocio/platform/bin/regress-runner/out.tmpl",
+		"/Volumes/dev01c6/bomnegocio/regress/final/tests/get-url-sd-11-outras-cidades.out",
+		"/Volumes/dev01c6/bomnegocio/doc/hermes/old_update_visitor_visits.dot",
+		"/Volumes/dev01c6/bomnegocio/php/payment/include/OrderData.php",
+		"/Volumes/dev01c6/bomnegocio/templates/mobile/acc_my_registration_info.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/php/p2p_payment/apps/p2p_payment_checkout.php",
+		"/Volumes/dev01c6/bomnegocio/templates/mobile/p2p_payment_mobile/include/payment_method_section.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/mobile/p2p_payment_mobile/checkout.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/mobile/p2p_payment_mobile/include/order_summary.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/mobile/p2p_payment_mobile/login.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/mobile/php/p2p_payment/apps/p2p_payment_mobile.php",
+		"/Volumes/dev01c6/bomnegocio/templates/account/acc_userinfo.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/www/css/login_user.css.in",
+		"/Volumes/dev01c6/bomnegocio/lib/libiconv/libiconv-1.9.2/vms/link_options.opt",
+		"/Volumes/dev01c6/bomnegocio/util/lock",
+		"/Volumes/dev01c6/bomnegocio/templates/sql/call_pmnt_mod_order_update_payment_data.sql.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/payment/order_items.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/Makefile",
+		"/Volumes/dev01c6/bomnegocio/libexec/httest/httest-2.0.9/test/match_order.hte",
+		"/Volumes/dev01c6/bomnegocio/platform/modules/mod_bconf/mod_bconf.c",
+		"/Volumes/dev01c6/bomnegocio/mobile/mobile_description.txt",
+		"/Volumes/dev01c6/bomnegocio/mobile/ACCOUNTS_API.txt",
+		"/Volumes/dev01c6/bomnegocio/www/css/mobile/checkout.css.in",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_checkout.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_checkout_identification.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/php/p2p_payment/include/P2pManager.php",
+		"/Volumes/dev01c6/bomnegocio/doc/payex.dia",
+		"/Volumes/dev01c6/bomnegocio/php/p2p_payment/include/P2pPaymentData.php",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_page.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_verifyacc_PF.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_verifyacc_PJ.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_send_docs_pf.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_send_docs_pj.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_listbillings.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_menu.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_myorders.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_mysales.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_sendbilling.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_withdraw.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_account_status.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_checkout_bndireto.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_checkout_options.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_document_upload.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_start_now.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_verifyacc_lightbox.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_withdraw_list.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_bank_account_info.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_checkout_bank_slip.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_checkout_credit_card.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_checkout_login_form.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_checkout_online_transfer.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_checkout_registered_user.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_checkout_unregistered_user.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/p2p_payment/p2p_help.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/spec/transactions/p2p_payment.rb",
+		"/Volumes/dev01c6/bomnegocio/www/css/p2p_payment.css.in",
+		"/Volumes/dev01c6/bomnegocio/doc/payment_flowchart.dia",
+		"/Volumes/dev01c6/bomnegocio/scripts/postinst/payment-postinstall.sh",
+		"/Volumes/dev01c6/bomnegocio/templates/payment/payment_product_weekly_bump_type2_list.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/templates/payment/payment_method_amex_list.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/regress_final/httpd.payment_mod.pid",
+		"/Volumes/dev01c6/bomnegocio/templates/payment/payment_product_bump_list.html.tmpl",
+		"/Volumes/dev01c6/bomnegocio/scripts/popular_ads_data_generator.php",
+		"/Volumes/dev01c6/bomnegocio/nga_total_users.sql",
+		"/Volumes/dev01c6/bomnegocio/nga_users.sql",
+		"/Volumes/dev01c6/bomnegocio/nga_only_users.sql",
+		"/Volumes/dev01c6/nextgen_api/virtualenv/lib/python3.3/site-packages/pip/locations.py",
+		"/Volumes/dev01c6/nextgen_api/pytools/scm/local_override.py",
+		"/Volumes/dev01c6/nextgen_api/api/api/types/labelmap.py",
+		"/Volumes/dev01c6/nextgen_api/platform/lib/template/tpfilters/trunc_utf8_with_breakchar.c",
+		"/Volumes/dev01c6/nextgen_api/platform/UPGRADE.md",
+		"/Volumes/dev01c6/nextgen_api/api/api/types/base.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Volumes/dev01c6/nextgen_api",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"var_dump",
+			">\n",
+			"a",
+			"podflyaaa",
+			"ng",
+			"\n            ",
+			"status",
+			"2",
+			"1",
+			"geraPontos",
+			"centroide",
+			"!');",
+			". ",
+			");\n",
+			"\\n",
+			"log",
+			"newad_mobile_logout",
+			"logout",
+			"newad_mobile_login",
+			"function",
+			"newad_mobile_login",
+			"$this->sessionManager",
+			"loginManager",
+			"login",
+			"newad_mobile_login",
+			"loginManager",
+			"return array('function' => ",
+			"return array('function' => '",
+			"_(.*=>)",
+			"(.*)",
+			":.*",
+			",",
+			"\";",
+			"\\$(.*)",
+			",",
+			"$",
+			"(.*)(\\n)",
+			"(.*)",
+			".*",
+			" .*",
+			"(\\w+)",
+			"\\|",
+			"|",
+			"#",
+			"mobile_accoun",
+			"zipcode",
+			"checkout",
+			"SELECT\n	--count(ads.ad_id)\n	ads.phone as 'ad_phone', a.phone as 'acc_phone', ads.name as 'ad_name', a.full_name as 'acc_name'\nFROM\n	accounts a\n	JOIN ads USING (user_id)\n\nWHERE \n	a.status = 'active'\n	AND ads.status = 'active'\n	AND (a.phone != ads.phone OR a.full_name != ads.name)\n;",
+			"locatoin",
+			"max_res",
+			"max_re",
+			"1600.*8GB.*price.*[(NA)]",
+			"1600.*8GB.*price.*[!(NA)]",
+			"1600.*8GB",
+			"Skill Intl F3-1600",
+			"create",
+			"location",
+			"id",
+			"get_coordinates",
+			"HERE",
+			"print_stack",
+			"unflatten",
+			"\n			",
+			"unflatten",
+			"multi_keys",
+			"unflatten",
+			"---",
+			"translate",
+			"dispa",
+			"label",
+			"%s",
+			"create_value",
+			"create",
+			"neighbourhood.label",
+			"=\n",
+			")\n",
+			"neighbourhood",
+			"label",
+			"translate",
+			"translator",
+			"Translator",
+			"translator",
+			"Translator",
+			"translator",
+			"Translator",
+			"translator",
+			"translate",
+			"raw_response",
+			"get_logger",
+			"dispatc",
+			"dispath",
+			"neighbourhood",
+			"neighbou",
+			"get_label",
+			"neighbour",
+			"api.type.ad.locations.neighbourhood.label",
+			"dispa",
+			"self.logger",
+			"get_logger",
+			"cpf",
+			"vf_fields_required",
+			"v_fields_required",
+			"cpf_cn",
+			"MULTI",
+			"MULTO",
+			"MULTI",
+			"bomnegocio",
+			"account",
+			"Configura",
+			"_max_size",
+			"max_res",
+			"LOGIN_FAILED",
+			"AccountNotFound",
+			"get_api_login",
+			"ACCOUNT_NOT_FOUND",
+			"format_response",
+			"execute_endpoint",
+			"self.execute_endpoint",
+			"dispa",
+			"publishing_required_fields",
+			"_validate_account",
+			"regress-admins",
+			"dev",
+			"<%%stat_time%>",
+			"regress-admins",
+			"REGRESS_DEPEND",
+			"rd",
+			"rall"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			" ",
+			"",
+			" ",
+			"",
+			"\\U1$",
+			"/U1$/",
+			"U1$1",
+			",$1 => $1",
+			"",
+			"\\n",
+			"\\\\n\";",
+			"\\n\";",
+			"echo \"$1: \\$$1\";",
+			"echo \"$1: \\$$1\";\\n",
+			"\\n",
+			"\\$$1,",
+			"\\$$1",
+			"$$1,",
+			"$1' => 'f_simple_param'",
+			"'.*'",
+			"",
+			"\\n",
+			"\\r\\n",
+			"\\r",
+			"\\n",
+			"2014-08-06",
+			"2014-08-07"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								635,
+								635
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/css/podfly.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								266,
+								266
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/fragments/podcast-list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								381,
+								381
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "www/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 133.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"output.xdebug":
+	{
+		"height": 112.0
+	},
+	"project": "podfly-www.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sessionmanager",
+				"php/common/include/SessionManager.php"
+			],
+			[
+				"php.ini.inc",
+				"conf/regress/httpd/php.ini.inc"
+			],
+			[
+				"newad_mobi",
+				"mobile/php/newad_mobile/apps/newad_mobile.php"
+			],
+			[
+				"wwwjsbuild",
+				"www/js/Builddesc"
+			],
+			[
+				"outer",
+				"www/js/zepto/outer_height.js.in"
+			],
+			[
+				"mobile_li.js.in",
+				"www/js/mobile_li.js.in"
+			],
+			[
+				"mobile_account_p2p_my_info.js",
+				"www/js/mobile_account_p2p_my_info.js.tmpl"
+			],
+			[
+				"acc_localization_fields",
+				"templates/mobile/account/include/acc_localization_fields.html.tmpl"
+			],
+			[
+				"acc_my_registration_info",
+				"templates/mobile/acc_my_registration_info.html.tmpl"
+			],
+			[
+				"acc_userinfo",
+				"templates/account/acc_userinfo.html.tmpl"
+			],
+			[
+				"login",
+				"templates/mobile/p2p_payment_mobile/login.html.tmpl"
+			],
+			[
+				"mobile/p2p_payment_mobile/checkout",
+				"templates/mobile/p2p_payment_mobile/checkout.html.tmpl"
+			],
+			[
+				"order_summary.html",
+				"templates/mobile/p2p_payment_mobile/include/order_summary.html.tmpl"
+			],
+			[
+				"order_summary",
+				"templates/mobile/p2p_payment_mobile/include/order_summary.html.tmpl"
+			],
+			[
+				"order_sy",
+				"templates/mobile/p2p_payment_mobile/include/order_summary.html.tmpl"
+			],
+			[
+				"mobile/p2p_payment_mobile/include/order_summary.html",
+				"templates/mobile/p2p_payment_mobile/include/order_summary.html.tmpl"
+			],
+			[
+				"mobile/p2p_payment_mobile/login.html",
+				"templates/mobile/p2p_payment_mobile/login.html.tmpl"
+			],
+			[
+				"payment_method_section",
+				"templates/mobile/p2p_payment_mobile/include/payment_method_section.html.tmpl"
+			],
+			[
+				"checkout",
+				"templates/mobile/p2p_payment_mobile/checkout.html.tmpl"
+			],
+			[
+				"p2p_payment",
+				"php/p2p_payment/apps/p2p_payment_checkout.php"
+			],
+			[
+				"p2ppaymentmob",
+				"mobile/php/p2p_payment/apps/p2p_payment_mobile.php"
+			],
+			[
+				"",
+				"api/init/uwsgi-api.ini.in"
+			],
+			[
+				"location",
+				"api/api/types/locations.py"
+			],
+			[
+				"uws",
+				"api/init/uwsgi-api.ini.in"
+			],
+			[
+				"locatoins",
+				"api/api/resources/sites_implementations/locations_bomnegocio.py"
+			],
+			[
+				"locations",
+				"api/api/types/locations.py"
+			],
+			[
+				"locali",
+				"api/api/resources/localization.py"
+			],
+			[
+				"localiza",
+				"api/api/resources/sites_implementations/bomnegocio/localization.py"
+			],
+			[
+				"test_public_ads.py",
+				"nextgen_api/api/tests/endpoints/test_public_ads.py"
+			],
+			[
+				"conf/common/bconf/bconf.txt.api.site",
+				"conf/common/bconf/bconf.txt.api.site"
+			],
+			[
+				"bconfapi",
+				"conf/common/bconf/bconf.txt.api.site"
+			],
+			[
+				"confcoord",
+				"conf/coord_api/coord_api.bconf"
+			],
+			[
+				"ads",
+				"api/api/endpoints/public/ads.py"
+			],
+			[
+				"typeslocation.py",
+				"api/api/types/locations.py"
+			],
+			[
+				"locat",
+				"virtualenv/lib/python3.3/site-packages/pip/locations.py"
+			],
+			[
+				"ads.py",
+				"api/api/endpoints/public/ads.py"
+			],
+			[
+				"zip",
+				"api/api/types/zipcode.py"
+			],
+			[
+				"locations_bomnegocio.py",
+				"api/api/resources/sites_implementations/locations_bomnegocio.py"
+			],
+			[
+				"apitypesad",
+				"api/api/types/ad.py"
+			],
+			[
+				"label",
+				"api/api/types/labelmap.py"
+			],
+			[
+				"neigh",
+				"api/api/types/neighbourhood.py"
+			],
+			[
+				"base.",
+				"api/api/types/base.py"
+			],
+			[
+				"municipality",
+				"api/api/types/municipality.py"
+			],
+			[
+				"api/api/endpoints/public/ads.py",
+				"api/api/endpoints/public/ads.py"
+			],
+			[
+				"endpoints/public/ads.py",
+				"nextgen_api/api/api/endpoints/public/ads.py"
+			],
+			[
+				"rou",
+				"nextgen_api/amok/amok/routing.py"
+			],
+			[
+				"ad.py",
+				"nextgen_api/api/api/types/ad.py"
+			],
+			[
+				"locations.p",
+				"nextgen_api/api/api/resources/locations.py"
+			],
+			[
+				"apicoord",
+				"bomnegocio/conf/coord_api/coord_api.bconf"
+			],
+			[
+				"base.py",
+				"api/api/types/base.py"
+			],
+			[
+				"coordconf",
+				"bomnegocio/conf/coord_api/coord_api.bconf"
+			],
+			[
+				"rout",
+				"amok/amok/routing.py"
+			],
+			[
+				"api/api/types/base.py",
+				"api/api/types/base.py"
+			],
+			[
+				"bconfsite",
+				"bomnegocio/conf/common/bconf/bconf.txt.api.site"
+			],
+			[
+				"conf/coord_api/coord_api.bconf",
+				"bomnegocio/conf/coord_api/coord_api.bconf"
+			],
+			[
+				"api/tests/endpoints/test_public_ads.py",
+				"nextgen_api/api/tests/endpoints/test_public_ads.py"
+			],
+			[
+				"api/api/types/neighbourhood.py",
+				"nextgen_api/api/api/types/neighbourhood.py"
+			],
+			[
+				"amok/amok/routing.py",
+				"nextgen_api/amok/amok/routing.py"
+			],
+			[
+				"valida",
+				"bomnegocio/daemons/trans/validators.c"
+			],
+			[
+				"accountcreateedi",
+				"bomnegocio/daemons/trans/account/trans_account_create_edit.c"
+			],
+			[
+				"bconf.txt.api",
+				"bomnegocio/conf/common/bconf/bconf.txt.api.site"
+			],
+			[
+				"php/common/include/bimage.php",
+				"bomnegocio/php/common/include/bImage.php"
+			],
+			[
+				"conf/common/bconf/bconf.txt",
+				"bomnegocio/conf/common/bconf/bconf.txt"
+			],
+			[
+				"api/api/endpoints/private/accounts_otp.py",
+				"nextgen_api/api/api/endpoints/private/accounts_otp.py"
+			],
+			[
+				"api/api/endpoints/private/account_login/api_login.py",
+				"nextgen_api/api/api/endpoints/private/account_login/api_login.py"
+			],
+			[
+				"api/tests/endpoints/test_private_accounts_otp.py",
+				"nextgen_api/api/tests/endpoints/test_private_accounts_otp.py"
+			],
+			[
+				"api/tests/endpoints/test_private_accounts_login.py",
+				"nextgen_api/api/tests/endpoints/test_private_accounts_login.py"
+			],
+			[
+				"account_bomnegocio.py",
+				"nextgen_api/api/api/resources/sites_implementations/account_bomnegocio.py"
+			],
+			[
+				"daily_financial_control_report_sales_order.sql.tmpl",
+				"templates/template_runner/daily_financial_control_report_sales_order.sql.tmpl"
+			],
+			[
+				"bnapiauthenticationad",
+				"mobile/php/common/include/bnAPIAuthenticationAd.php"
+			],
+			[
+				"authenticate_ad",
+				"mobile/php/authentication/apps/authenticate_ad.php"
+			],
+			[
+				"get-url-auth-ad-ok",
+				"regress/final/tests/get-url-auth-ad-ok.in"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"new_inse",
+				"templates/sql/stats/new_inserted_ads.sql.tmpl"
+			],
+			[
+				"daily_stats.pl",
+				"scripts/batch/daily_stats/daily_stats.pl"
+			],
+			[
+				"new_inserted_ads_source.sql",
+				"templates/sql/stats/new_inserted_ads_source.sql.tmpl"
+			],
+			[
+				"new_inserted_ads.sql",
+				"templates/sql/stats/new_inserted_ads.sql.tmpl"
+			],
+			[
+				"templates/mail/stats_daily.txt.tmpl",
+				"templates/mail/stats_daily.txt.tmpl"
+			],
+			[
+				"conf/common/bconf/bconf.txt.mobile",
+				"conf/common/bconf/bconf.txt.mobile"
+			],
+			[
+				"loggedus",
+				"php/common/include/bLoggedUser.php"
+			],
+			[
+				"accregistra",
+				"templates/mobile/acc_my_registration_info.html.tmpl"
+			],
+			[
+				"templates/mobile/acc_my_registration_info.html.tmpl",
+				"templates/mobile/acc_my_registration_info.html.tmpl"
+			],
+			[
+				"orderdata",
+				"php/payment/include/OrderData.php"
+			],
+			[
+				"ordermo",
+				"php/payment/include/OrderModel.php"
+			],
+			[
+				"order",
+				"php/payment/include/OrderData.php"
+			],
+			[
+				"payment.php",
+				"php/payment/apps/payment.php"
+			],
+			[
+				"payment_mobile.php",
+				"mobile/php/payment/apps/payment_mobile.php"
+			],
+			[
+				"daily_financial_control_report_sales_order.sql",
+				"templates/template_runner/daily_financial_control_report_sales_order.sql.tmpl"
+			],
+			[
+				"daily_financial_control_report_sales_order.xml",
+				"templates/template_runner/daily_financial_control_report_sales_order.xml.tmpl"
+			],
+			[
+				"template_runner/daily_financial_control_report.xml",
+				"templates/template_runner/daily_financial_control_report.xml.tmpl"
+			],
+			[
+				"scripts/batch/payment_api/daily-financial-control-report.sh",
+				"scripts/batch/payment_api/daily-financial-control-report.sh"
+			],
+			[
+				"templates/account/acc_tabs.html.tmp",
+				"templates/account/acc_tabs.html.tmpl"
+			],
+			[
+				"account_mob",
+				"mobile/php/account/apps/account_mobile.php"
+			],
+			[
+				"bnapinewadhandler",
+				"mobile/php/common/include/bnAPINewadHandler.php"
+			],
+			[
+				"newad_m",
+				"mobile/php/newad_mobile/apps/newad_mobile.php"
+			],
+			[
+				"newadphp",
+				"php/newad/apps/blocket_newad.php"
+			],
+			[
+				"accountphp",
+				"php/account/apps/account.php"
+			],
+			[
+				"accountmob",
+				"mobile/php/account/apps/account_mobile.php"
+			],
+			[
+				"redisacc",
+				"conf/regress/redis/redisacc.conf.in"
+			],
+			[
+				"p2pman",
+				"php/p2p_payment/include/P2pManager.php"
+			],
+			[
+				"blocket_",
+				"php/common/include/blocket_application.php"
+			],
+			[
+				"blogger",
+				"php/common/include/bLoggedUser.php"
+			],
+			[
+				"checkoutphp",
+				"php/p2p_payment/apps/p2p_payment_checkout.php"
+			],
+			[
+				"p2pser",
+				"php/p2p_payment/include/P2pService.php"
+			],
+			[
+				"p2pservice",
+				"php/p2p_payment/include/P2pService.php"
+			],
+			[
+				"modsecmobile",
+				"conf/common/mod_security/mod_sec_p2p_payment_mobile.conf"
+			],
+			[
+				"ext-modules/mobile-api/php/p2p_payment/apps/p2p_payment_mobile.php",
+				"ext-modules/mobile-api/php/p2p_payment/apps/p2p_payment_mobile.php"
+			],
+			[
+				"conf/common/bconf/bconf.txt.mobile_templates.in",
+				"conf/common/bconf/bconf.txt.mobile_templates.in"
+			],
+			[
+				"spec/support/mobile_site_structure/listing_helpers.rb",
+				"spec/support/mobile_site_structure/listing_helpers.rb"
+			],
+			[
+				"bloginmanager",
+				"php/common/include/bLoginManager.php"
+			],
+			[
+				"bredisclass.php",
+				"php/common/include/bRedisClass.php"
+			],
+			[
+				"redis.php",
+				"php/common/include/bRedisClass.php"
+			],
+			[
+				"bloggedu",
+				"php/common/include/bLoggedUser.php"
+			],
+			[
+				"p2pmanager",
+				"php/p2p_payment/include/P2pManager.php"
+			],
+			[
+				"ext-modules/",
+				"ext-modules/mobile-api/conf/Builddesc"
+			],
+			[
+				"bconfmobiletempl",
+				"conf/common/bconf/bconf.txt.mobile_templates.in"
+			],
+			[
+				"templates/mobile/header_nextgen_menu.html.tmpl",
+				"templates/mobile/header_nextgen_menu.html.tmpl"
+			],
+			[
+				"p2p_checkout_identification",
+				"templates/p2p_payment/p2p_checkout_identification.html.tmpl"
+			],
+			[
+				"mobilep2p",
+				"mobile/php/p2p_payment/apps/p2p_payment_mobile.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"payment_method",
+				"test_paymentapi_pay_error_invalid_payment_method"
+			]
+		],
+		"width": 1345.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

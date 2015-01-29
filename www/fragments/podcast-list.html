@@ -2,11 +2,11 @@
         <li class="item" ng-repeat="podcast in podcastList.podcasts">
             <div>
                 <div class="icon">
-                	<img ng-src={{podcast.icon}}></img>
+                	<img ng-src={{podcast.imageUrl}}></img>
                 </div>
                 <div class="info">
                     <p class="title">{{podcast.title}}</p>
-                    <p class="update">{{podcast.lastUpdate | date }}</p>
+                    <p class="update">{{podcast.lastBuildDate | date }}</p>
                 </div>                    
             </div>                  
         </li>               

@@ -17,7 +17,14 @@
 #podcast-list .icon
 {
 	float: left;
-	max-width: 128px;
+	width: 144px;
+	height: 144px;
+}
+
+#podcast-list .icon img
+{
+	max-height: 100%;
+	max-width: 100%;
 }
 
 #podcast-list .info

@@ -15,12 +15,29 @@ app.directive('podcastList', function(){
 
 			$this.podcasts = [];
 
-			var account_token = 'fdae317a5ffdae317a5ffdae317a5ffdae317a5f'
+			var uuid = 'device.uuid'
 
-			$http.get('https://podfly-api.appspot.com/podcast/me/' + account_token).success(function(data){
+			var search = "jovem";
+
+			/*$http.get('http://10.0.3.2:9090/podcast/search/' + search).success(function(data){
 				data.forEach(function(e){
+					if (e.imageUrl == null)
+						e.imageUrl = 'img/no-image.jpg';
 					$this.podcasts.push(e);
 				});
+			});*/
+			data = [];
+			for (i =0; i<=5; i++) {
+				data.push({
+					"title": "Teste " + i,
+					"lastBuildDate": (new Date()) - i
+				});
+			}
+
+			data.forEach(function(e){
+				if (e.imageUrl == null)
+					e.imageUrl = 'img/no-image.jpg';
+				$this.podcasts.push(e);
 			});
 
 		}]
