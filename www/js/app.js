@@ -4,6 +4,19 @@ document.addEventListener('deviceready', function onDeviceReady() {
 
 var app = angular.module("podfly", []);
 
+app.directive('mySubscriptions', function() {
+
+	return {
+		restrict: 'E',
+		templateUrl: "fragments/my-subscriptions.html",
+		controllerAs: "mySubscriptions",
+		controller: [{
+
+		}]
+	};
+
+});
+
 app.directive('podcastList', function(){
 	return {
 		restrict:'E',
